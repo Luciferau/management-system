@@ -1,0 +1,5 @@
+﻿  main.cpp
+F:\WorkCpp\管理系统\main.cpp(37,7): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+F:\WorkCpp\管理系统\main.cpp(68,7): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+main.obj : error LNK2001: 无法解析的外部符号 __imp_mciSendStringA
+F:\WorkCpp\管理系统\x64\Release\管理系统.exe : fatal error LNK1120: 1 个无法解析的外部命令
